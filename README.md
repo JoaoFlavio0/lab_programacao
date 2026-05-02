@@ -66,7 +66,6 @@ gcc nome_do_arquivo.c -o programa
 
 * [x] Lista 1
 * [x] Lista 2
-* [ ] Lista 3
 * [ ] Projeto final
 
 ---
